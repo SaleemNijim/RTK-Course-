@@ -73,5 +73,5 @@ This course is focused on Redux Toolkit (RTK), which makes it easier to work wit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/rtk-course.git
+   git clone https://github.com/SaleemNijim/RTK-Course-
    cd rtk-course
